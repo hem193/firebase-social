@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+config/
 # dependencies
 /node_modules
 /.pnp
@@ -22,8 +23,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-<<<<<<< HEAD
-config/
-=======
-config
->>>>>>> 882acac75eb64371e22f3c7ea5238d6517f39e7d
+
